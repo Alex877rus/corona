@@ -1,2 +1,2 @@
-# corona
-Corona
+Hachiko
+Hachiko logo32х32
